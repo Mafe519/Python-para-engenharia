@@ -51,3 +51,5 @@ Button(root, text="Salvar QR Code", command=salvar_qr_code).pack()
 
 
 root.mainloop()
+
+#
